@@ -46,23 +46,27 @@ After doing Text Pre-Processing
 
 
 Phase – 3 
- Data Pre-processing
+Data Pre-processing
+
 • Separating the input variable and target variable.
 • Training and Testing sets.
- Model Building
- Classification Algorithms:
+Model Building
+
+Classification Algorithms:
+
 • Logistic Regression
 • Decision-tree
 • SVM
 • Random Forest
 • XG Boost
 • GBDT
- Evaluate the Model:
+Evaluate the Model:
+
 • Confusion Matrix
 • Classification Report
 
 
 Phase – 4
- Mlops
- Model Experiment Tracking with MLflow
- Automation using Workflow Orchestration - Prefect (OPTIONAL)
+Mlops
+Model Experiment Tracking with MLflow
+Automation using Workflow Orchestration - Prefect (OPTIONAL)
